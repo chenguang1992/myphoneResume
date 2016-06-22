@@ -230,7 +230,7 @@ html, body {
 .title p{
     position: absolute;
     left: .82rem;
-    bottom: .5rem;
+    bottom: .8rem;
     font-size: .18rem;
     color:rgba(255,255,255,.8);
     opacity: 0;
@@ -439,7 +439,7 @@ html, body {
 }
 /*第四页样式*/
 .experience{
-    margin: .3rem auto;
+    margin: .5rem auto;
     width: 2.5rem;
     text-align: center;
     height: .5rem;
